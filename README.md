@@ -16,18 +16,6 @@
 - ☕ Java is the language what I'm learning now
 - 🔧 When I have free time, I study python with a focus on the scikit-learn library (machine learning for python)
 
-## 🗣 Languages
-
-### Portuguese 🇧🇷
-
-- Native Speaker
-
-### **English 🇺🇸**
-
-- Good reading and listening
-
----
-
 # 📜 Projects
 
 - 💻This is my link to the first-period project  ⇒ [https://github.com/moesio-f/V01D](https://github.com/moesio-f/V01D) (it is a playable version, but with some small bugs that do not interfere with the experience)
@@ -39,3 +27,4 @@
 ## Bachelor of computer science **(Loading...)**
 
     *Federal Rural University of Pernambuco(UFRPE)*
+ 
