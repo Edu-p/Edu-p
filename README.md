@@ -14,7 +14,7 @@
 
 - 🐣 C is the first language what I came into contact with, so I have the most experience
 - ☕ Java is the language what I'm learning now
-- 🔧 When I have free time, I study python with a focus on the scikit-learn library (machine learning for python)
+- 🔧 When I have free time, I study python with a focus on the scikit-learn library
 
 # 📜 Projects
 
@@ -26,5 +26,5 @@
 
 ## Bachelor of computer science **(Loading...)**
 
-    *Federal Rural University of Pernambuco(UFRPE)*
+    Federal Rural University of Pernambuco(UFRPE)
  
