@@ -18,7 +18,7 @@
 
 # 📜 Projects
 
-- 💻This is my link to the first-period project  ⇒  (it is a playable version, but with some small bugs that do not interfere with the experience)
+- 💻This is my link to the first-period project  ⇒ https://github.com/HuntingBytes/V01D (it is a playable version, but with some small bugs that do not interfere with the experience)
 
 ---
 
