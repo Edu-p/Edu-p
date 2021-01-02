@@ -14,7 +14,6 @@
 
 - 🐣 C is the first language what I came into contact with, so I have the most experience
 - ☕ Java is the language what I'm learning now
-- 🔧 When I have free time, I study python with a focus on the scikit-learn library
 
 # 📜 Projects
 
