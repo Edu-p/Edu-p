@@ -6,7 +6,7 @@
 ### About me:
 I'm a data science enthusiastic and student at [@ufrpe](http://www.ufrpe.br).
 
-- [Repositories](https://github.com/Edu-p) 💻 - These are my repositories of my projects and studies
+- [Repositories](https://github.com/Edu-p) - These are my repositories of my projects and studies
     - [V0ID](https://github.com/Edu-p/V01D) :floppy_disk:- Puzzle game made in [C](https://en.wikipedia.org/wiki/C_(programming_language)) with [Hunting Bytes](https://github.com/HuntingBytes)
     - [The-Cooks-Books](https://github.com/Edu-p/The-Cooks-Books) :clipboard:- Culinary recipe management system made in [Java](https://en.wikipedia.org/wiki/Java) with [Hunting Bytes](https://github.com/HuntingBytes)
     - [Data-TreatandVisualize](https://github.com/Edu-p/Data-TreatandVisualize) :bar_chart:- Study repository using [Python](https://en.wikipedia.org/wiki/Python), [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook) and other tools for data processing and visualization
