@@ -1,29 +1,22 @@
-# About me 😃
+# Hi, I'm Eduardo! :D
 
-> Hi, My name is Eduardo. I'm a Computer Science student at the UFRPE (Federal Rural University of Pernambuco),😁.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Edu-p)](https://github.com/Edu-p)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-amorim-5b332a1a4/)
 
-# ☎️ Contact information
+### About me
+I'm a data science enthusiastic and student at [@ufrpe](http://www.ufrpe.br).
 
-📧 eduardoaamorim0@gmail.com
+- [Repositories](https://github.com/Edu-p) 💻 - These are my repositories of my projects and studies
+    - [V0ID](https://github.com/Edu-p/V01D) - Puzzle game made in [C](https://en.wikipedia.org/wiki/C_(programming_language)) with [Hunting Bytes](https://github.com/HuntingBytes)
+    - [The-Cooks-Books](https://github.com/Edu-p/The-Cooks-Books) - Culinary recipe management system made in [Java](https://en.wikipedia.org/wiki/Java) with [Hunting Bytes](https://github.com/HuntingBytes)
+    - [Data-TreatandVisualize](https://github.com/Edu-p/Data-TreatandVisualize) - Study repository using [Python](https://en.wikipedia.org/wiki/Python), [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook) and other tools for data processing and visualization
 
-🔗 [https://www.linkedin.com/in/eduardo-amorim-5b332a1a4/](https://www.linkedin.com/in/eduardo-amorim-5b332a1a4/)
-
----
-
-# 🛠 Skills
-
-- 🐣 C is the first language what I came into contact with, so I have the most experience
-- ☕ Java is the language what I'm learning now
-
-# 📜 Projects
-
-- 💻This is my link to the first-period project  ⇒ https://github.com/HuntingBytes/V01D (it is a playable version, but with some small bugs that do not interfere with the experience)
-
----
-
-# 📚 Education
-
-## Bachelor of computer science **(Loading...)**
-
-    Federal Rural University of Pernambuco(UFRPE)
- 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Edu-p&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
