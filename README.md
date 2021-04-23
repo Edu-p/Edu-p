@@ -11,7 +11,7 @@ I'm a data science enthusiastic and student at [@ufrpe](http://www.ufrpe.br).
     - [The-Cooks-Books](https://github.com/Edu-p/The-Cooks-Books) :clipboard:- Culinary recipe management system made in [Java](https://en.wikipedia.org/wiki/Java) with [Hunting Bytes](https://github.com/HuntingBytes)
     - [Data-VisuandProcessing](https://github.com/Edu-p/Data-VisuandProcessing) :bar_chart:- Study repository using [Python](https://en.wikipedia.org/wiki/Python), [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook) and other tools for data processing and visualization
 
-### Email Contact:
+### Contact:
 - eduardoaamorim0@gmail.com
 
 <p align="center">
