@@ -11,6 +11,7 @@ I'm a data science enthusiastic and student at [@ufrpe](http://www.ufrpe.br).
     - [The-Cooks-Books](https://github.com/Edu-p/The-Cooks-Books) :clipboard:- Culinary recipe management system made in [Java](https://en.wikipedia.org/wiki/Java) with [Hunting Bytes](https://github.com/HuntingBytes)
     - [data-visuandprocessing](https://github.com/Edu-p/Data-VisuandProcessing) :bar_chart:- Study repository using [Python](https://en.wikipedia.org/wiki/Python), [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook) and other tools for data processing and visualization
     -  [which-property](https://github.com/Edu-p/WhichProperty) -:house_with_garden: Insights project that helps the House Rocket choose the right properties
+    -  [ds-project-model](https://github.com/Edu-p/ds-project-model) -:robot: Complete forecasting project using data from the competition created by Rossmann, the second largest pharmacy chain in germany, in 2015. Available on [Kaggle](https://www.kaggle.com/c/rossmann-store-sales/overview). 
 
 ### Contact:
 - eduardoaamorim0@gmail.com
