@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-amorim-5b332a1a4/)
 
 ### About me:
-I'm a data science enthusiastic and student at [@ufpe](http://www.ufpe.br).
+Student at [@ufpe](http://www.ufpe.br).
 
 - [Repositories](https://github.com/Edu-p) - These are my repositories of my projects and studies
     - [V0ID](https://github.com/Edu-p/V01D) - :floppy_disk: Puzzle game made in [C](https://en.wikipedia.org/wiki/C_(programming_language)) with [Hunting Bytes](https://github.com/HuntingBytes)
