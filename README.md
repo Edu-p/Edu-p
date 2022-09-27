@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-amorim-5b332a1a4/)
 
 ### About me:
-- Student at [@ufpe](http://www.ufpe.br) | Research Assistant at [@voxar](https://voxarlabs.cin.ufpe.br/).
+- Student at [@ufpe](http://www.ufpe.br) | working with computer vision at [@voxar](https://voxarlabs.cin.ufpe.br/).
 
 
 - [Repositories](https://github.com/Edu-p) - These are my repositories of my projects and studies
