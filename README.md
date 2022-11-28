@@ -17,6 +17,7 @@
     -  [ml-feedback-analysis](https://github.com/Edu-p/ml-feedback-analysis) - :speech_balloon: classifier focused on the analysis of feedback texts
     -  [bezier-curves](https://github.com/Edu-p/bezier-curves) - :dizzy: web application for building bezier curves
     -  [ray-tracing](https://github.com/Edu-p/ray-tracing) - :dart: application of rendering concepts using the ray-tracing algorithm
+    -  [mips-processor](https://github.com/Edu-p/mips-processor) - :joystick: implementation of a MIPS processor architecture with a reduced ISA(instruction set architecture)
 ### Contact:
 - eduardoaamorim0@gmail.com
 
