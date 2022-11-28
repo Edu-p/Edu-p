@@ -18,6 +18,7 @@
     -  [bezier-curves](https://github.com/Edu-p/bezier-curves) - :dizzy: web application for building bezier curves
     -  [ray-tracing](https://github.com/Edu-p/ray-tracing) - :dart: application of rendering concepts using the ray-tracing algorithm
     -  [mips-processor](https://github.com/Edu-p/mips-processor) - :joystick: implementation of a MIPS processor architecture with a reduced ISA(instruction set architecture)
+    -  [style-transfer](https://github.com/Edu-p/style-transfer) - :crystal_ball:  web application to perform a style transfer in an image chosen by the user
 ### Contact:
 - eduardoaamorim0@gmail.com
 
