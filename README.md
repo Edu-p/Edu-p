@@ -15,6 +15,7 @@
     -  [ds-project-model](https://github.com/Edu-p/ds-project-model) - :thought_balloon: Study repository of a complete data science project, from the initial data manipulation to the deployment of the final ML model in the cloud, using [Python](https://en.wikipedia.org/wiki/Python) and [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook)
     -  [store-sales-forecast](https://github.com/Edu-p/store-sales-forecast) - :pill: sales prediction project at rossmann stores for the next 6 weeks
     -  [ml-feedback-analysis](https://github.com/Edu-p/ml-feedback-analysis) - :speech_balloon: classifier focused on the analysis of feedback texts
+    -  [bezier-curves](https://github.com/Edu-p/bezier-curves) - :dizzy: web application for building bezier curves
  
 ### Contact:
 - eduardoaamorim0@gmail.com
