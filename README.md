@@ -14,17 +14,25 @@
         -  [ds-project-model](https://github.com/Edu-p/ds-project-model) - :thought_balloon: Study repository of a complete data science project, from the initial data manipulation to the deployment of the final ML model in the cloud, using [Python](https://en.wikipedia.org/wiki/Python) and [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook)
         -  [store-sales-forecast](https://github.com/Edu-p/store-sales-forecast) - :pill: sales prediction project at rossmann stores for the next 6 weeks
         -  [fraud-detection](https://github.com/Edu-p/fraud-detection) - :boom: fraud detector in bank transactions
+
+
     - Learning analytics
         -  [ml-feedback-analysis](https://github.com/Edu-p/ml-feedback-analysis) - :speech_balloon: classifier focused on the analysis of feedback texts
     - Computer vision
         -  [style-transfer](https://github.com/Edu-p/style-transfer) - :crystal_ball:  web application to perform a style transfer in an image chosen by the user
     - Hardware description
         -  [mips-processor](https://github.com/Edu-p/mips-processor) - :joystick: implementation of a MIPS processor architecture with a reduced ISA(instruction set architecture)
+
+
     - Graphic processing
         -  [bezier-curves](https://github.com/Edu-p/bezier-curves) - :dizzy: web application for building bezier curves
         -  [ray-tracing](https://github.com/Edu-p/ray-tracing) - :dart: application of rendering concepts using the ray-tracing algorithm
+
+
     - Games
         - [V0ID](https://github.com/Edu-p/V01D) - :floppy_disk: Puzzle game made in [C](https://en.wikipedia.org/wiki/C_(programming_language)) with [Hunting Bytes](https://github.com/HuntingBytes)
+
+
     - Software construction
         - [The-Cooks-Books](https://github.com/Edu-p/The-Cooks-Books) - :clipboard: Culinary recipe management system made in [Java](https://en.wikipedia.org/wiki/Java) with [Hunting Bytes](https://github.com/HuntingBytes)
 
