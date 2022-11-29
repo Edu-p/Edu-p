@@ -38,7 +38,7 @@
 
 
     - Software construction :clipboard:
-        - [The-Cooks-Books](https://github.com/Edu-p/The-Cooks-Books) -  Culinary recipe management system made in [Java](https://en.wikipedia.org/wiki/Java) with [Hunting Bytes](https://github.com/HuntingBytes)
+        - [the-Cooks-Books](https://github.com/Edu-p/The-Cooks-Books) -  Culinary recipe management system made in [Java](https://en.wikipedia.org/wiki/Java) with [Hunting Bytes](https://github.com/HuntingBytes)
 
 ### Contact:
 - eduardoaamorim0@gmail.com
