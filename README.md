@@ -36,7 +36,7 @@
         - [V0ID](https://github.com/Edu-p/V01D) -  Puzzle game made in [C](https://en.wikipedia.org/wiki/C_(programming_language)) with [Hunting Bytes](https://github.com/HuntingBytes)
 
 
-    - Software construction :clipboard:
+    - Miscellaneous :clipboard:
         - [the-Cooks-Books](https://github.com/Edu-p/The-Cooks-Books) -  Culinary recipe management system made in [Java](https://en.wikipedia.org/wiki/Java) with [Hunting Bytes](https://github.com/HuntingBytes)
 
 ### Contact:
