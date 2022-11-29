@@ -28,12 +28,11 @@
         -  [mips-processor](https://github.com/Edu-p/mips-processor) - implementation of a MIPS processor architecture with a reduced ISA(instruction set architecture)
 
 
-    - Graphic processing 🎯:
+    - Graphic processing 🎯
         -  [bezier-curves](https://github.com/Edu-p/bezier-curves) -  web application for building bezier curves
         -  [ray-tracing](https://github.com/Edu-p/ray-tracing) - application of rendering concepts using the ray-tracing algorithm
 
-
-    - Games 💾:
+    - Games 💾
         - [V0ID](https://github.com/Edu-p/V01D) -  Puzzle game made in [C](https://en.wikipedia.org/wiki/C_(programming_language)) with [Hunting Bytes](https://github.com/HuntingBytes)
 
 
