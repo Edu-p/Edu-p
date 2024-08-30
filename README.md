@@ -6,7 +6,7 @@
 ### About me:
 - Student at [@ufpe](http://www.ufpe.br) | Working with Data Science at [@Neurotech](https://www.neurotech.com.br).
 
-### Repositories
+### Featured Repositories
 - [writing_test](https://github.com/Edu-p/writing-test) - Platform to enhance the English level of developers by tracking their writing proficiency.
 - [Reco](https://github.com/Edu-p/Reco) - A web platform that automates the negotiation of condominium default cases. 🏆 Winner of 3/4 awards
 - [attention-mechanism](https://github.com/Edu-p/attention-mechanism) - Implementation of an attention mechanism both with and without PyTorch
