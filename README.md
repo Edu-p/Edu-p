@@ -8,6 +8,7 @@
 
 ### Featured Repositories
 - [writing_test](https://github.com/Edu-p/writing-test) - Platform to enhance the English level of developers by tracking their writing proficiency.
+- [intent-detection](https://github.com/Edu-p/intent-detection) - Interact with a finetuned BERT to predict user intentions and retrieve the last three intents from a database.
 - [Reco](https://github.com/Edu-p/Reco) - A web platform that automates the negotiation of condominium default cases. 🏆 Winner of 3 awards
 - [attention-mechanism](https://github.com/Edu-p/attention-mechanism) - Implementation of an attention mechanism both with and without PyTorch
 - [granting-of-credit](https://github.com/Edu-p/granting-of-credit) - Project focused on credit concession analysis, combining various cases and building a credit evaluation model.
