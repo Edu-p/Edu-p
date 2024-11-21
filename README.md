@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-amorim-5b332a1a4/)
 
 ### About me:
-- Working as a Data Scientist at [@Neurotech](https://www.neurotech.com.br).
+- Working as a AI Engineer at [@Neurotech](https://www.neurotech.com.br).
 
 ### Featured Repositories
 - [writing_test](https://github.com/Edu-p/writing-test) - Platform to enhance the English level of developers by tracking their writing proficiency.
