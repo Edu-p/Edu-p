@@ -3,9 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Edu-p)](https://github.com/Edu-p)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-amorim-5b332a1a4/)
 
-### About me:
-- Working as AI Engineer at [@Neurotech](https://www.neurotech.com.br).
-
 ### Featured Repositories
 - [writing_test](https://github.com/Edu-p/writing-test) - Platform to enhance the English level of developers by tracking their writing proficiency.
 - [intent-detection](https://github.com/Edu-p/intent-detection) - Interact with a finetuned BERT to predict user intentions and retrieve the last three intents from a database.
