@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-amorim-5b332a1a4/)
 
 ### Featured Repositories
-- [secbert-pt](https://github.com/Edu-p/secbert-pt) - Source code for "Robustness of Language Models against Portuguese Harmful Prompts" (IJCNN 2026). SecBERT, a BERTimbau-based classifier for detecting harmful and jailbreak prompts in Brazilian Portuguese.
+- [secbert-pt](https://github.com/Edu-p/secbert-pt) - Source code for the paper "Robustness of Language Models against Portuguese Harmful Prompts" (IJCNN 2026). SecBERT, a BERTimbau-based classifier for detecting harmful and jailbreak prompts in Brazilian Portuguese.
 - [writing_test](https://github.com/Edu-p/writing-test) - Platform to enhance the English level of developers by tracking their writing proficiency.
 - [intent-detection](https://github.com/Edu-p/intent-detection) - Interact with a finetuned BERT to predict user intentions and retrieve the last three intents from a database.
 - [Reco](https://github.com/Edu-p/Reco) - A web platform that automates the negotiation of condominium default cases. 🏆 Winner of 3 awards
