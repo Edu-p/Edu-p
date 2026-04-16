@@ -1,6 +1,5 @@
 # Hi, I'm Eduardo! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Edu-p)](https://github.com/Edu-p)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-amorim-5b332a1a4/)
 
 ### Featured Repositories
